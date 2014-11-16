@@ -23,7 +23,7 @@ Les cours suivants se sont inscrits dans une partie du **module M3301 Méthodolo
 	* [Atelier PODOJO : USTA (User Story - Tests d'Acceptance)](#podjoUSTA)
 * Le Produit de qualité (*the Product Right*) ...
 	* [Pas d'agilité sans excellence technique ! ... Découverte du mouvement Software Craftsmanship](#SoftwareCraftsmanship)
-	*[Les tests au centre de la qualité logicielle : TDD – ATDD - BDD - Classification – Coding Dojo](#tests_xDD)  
+	* [Les tests au centre de la qualité logicielle : TDD – ATDD - BDD - Classification – Coding Dojo](#tests_xDD)  
 * [La Rétrospective en pratique : Ateliers, Agiles Games & Innovation Games](#retro)  
 * [Quid de l'agilité aujourd'hui ?](#quidAgile)
 
