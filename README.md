@@ -309,9 +309,9 @@ Personal Kanban : retrouvez votre efficacité : [http://www.infoq.com/fr/present
 [http://www.aubryconseil.com/post/2007/10/04/305-features-themes-epics-et-stories](http://www.aubryconseil.com/post/2007/10/04/305-features-themes-epics-et-stories)
 
 ### Jeux
-[http://innovationgames.com/](http://innovationgames.com/)  
-[http://innovationgames.com/product-box/](http://innovationgames.com/product-box/)  
-[http://innovationgames.com/remember-the-future/](http://innovationgames.com/remember-the-future/)
+[http://www.innovationgames.com/](http://innovationgames.com/)  
+[http://www.innovationgames.com/product-box/](http://innovationgames.com/product-box/)  
+[http://www.innovationgames.com/remember-the-future/](http://innovationgames.com/remember-the-future/)
 
 ###Video
 Présentation des Innovation Games : [https://www.youtube.com/watch?v=fP4QSIB-mbw](https://www.youtube.com/watch?v=fP4QSIB-mbw)  
