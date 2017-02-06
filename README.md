@@ -271,7 +271,7 @@ Antoine Vernois et Fabrice Aimetti**
 
 ### Jeux
 [http://www.crisp.se/gratis-material-och-guider/multitasking-name-game](http://www.crisp.se/gratis-material-och-guider/multitasking-name-game)  
-[http://blog.valtech.fr/wp-content/uploads/Multitasking-Name-Game-FR.pdf](http://blog.valtech.fr/wp-content/uploads/Multitasking-Name-Game-FR.pdf)  
+[Multitasking-Name-Game-EN.pdf (Crisp)](https://docs.google.com/viewer?a=v&pid=sites&srcid=YWlnbHUub3JnfGFnaWxlLWludGVyZXN0LWdyb3VwLWx1eGVtYm91cmd8Z3g6MWUxYjFhNDBjZTViNzNmNA)  
 [http://www.getkanban.com/](http://www.getkanban.com/)  
 [http://kanbanzine.wordpress.com/](http://kanbanzine.wordpress.com/)   
 
