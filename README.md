@@ -30,6 +30,8 @@ Les cours suivants se sont inscrits dans une partie du **module M3301 Méthodolo
 Les ressources utilisées pour traiter ces différents points sont listées ci-après.  
 A partir de maintenant [cette liste devient collaborative](https://help.github.com/categories/collaborating/), libre à vous de la compléter et de la faire évoluer via une petite [pull request](https://help.github.com/articles/creating-a-pull-request/) ! N'hésitez pas à participer ! Tout feedback est bien sûr  le bienvenu ...
 
+**[Octobre 2017]** : Le module est toujours en cours et les **supports de cours** construits à partir de ces références (et bien d'autres depuis) sont désormais disponibles dans le dépôt [**iblasquez/enseignement-developpement-logiciel-agile**](https://github.com/iblasquez/enseignement-developpement-logiciel-agile).
+
 **Avant de commencer...**
 
 * **Un petit plan bien pratique pour s'y retrouver dans le vaste monde de l'agilité :  Bienvenue sur nos lignes ! ;-)**
