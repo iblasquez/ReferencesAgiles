@@ -389,7 +389,7 @@ Utilisation des « Jeux Agiles » dans les projets : [https://www.youtube.com/wa
 [http://blog.typhonfute.fr/presentation-typhon-fute/](http://blog.typhonfute.fr/presentation-typhon-fute/)  
 [http://blog.typhonfute.fr/les-ateliers-de-co-construction/](http://blog.typhonfute.fr/les-ateliers-de-co-construction/)
 [http://blog.typhonfute.fr/running-lean-canvas ](http://blog.typhonfute.fr/running-lean-canvas ) 
-[http://www.ekito.fr/people/vendre-son-appart-avec-du-lean-startup-et-du-lean-analytics/](http://www.ekito.fr/people/vendre-son-appart-avec-du-lean-startup-et-du-lean-analytics/)  
+[http://www.ekito.fr/people/vendre-son-apart-avec-du-lean-startup-et-du-lean-analytics/](http://www.ekito.fr/people/vendre-son-apart-avec-du-lean-startup-et-du-lean-analytics/)  
 
 
 ### Illustrations
